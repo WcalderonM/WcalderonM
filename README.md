@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WcalderonM
-- 👀 I’m interested in ...
+- 👀 I’m interested in .medicina de precisión..
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on  ingenieria del sector salud - Historia Clinica.análisis del Historial de Salud  mediante Analítica de Datos y Prospectiva
-- 📫 How to reach me ...
+- 📫 How to reach me wagsamericas@gmail.com.
 
 <!---
 WcalderonM/WcalderonM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
